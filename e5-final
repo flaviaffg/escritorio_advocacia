@@ -1,0 +1,7 @@
+### Reflexão sobre os Aprendizados
+
+Durante este projeto, aprendemos na prática conceitos fundamentais de banco de dados, como modelagem com DER, normalização e criação do esquema relacional. Também desenvolvemos habilidades em SQL, utilizando comandos para criar, manipular e consultar dados. Além disso, o uso do Git e GitHub contribuiu para o aprendizado sobre versionamento e organização do trabalho em equipe. A experiência permitiu aplicar conhecimentos teóricos em um projeto real, fortalecendo nossa compreensão sobre o desenvolvimento de bancos de dados.
+
+Ao desenvolver o script SQL do projeto, aprendi na prática a diferença entre DDL e DML — desde a criação das tabelas com constraints e chaves estrangeiras até a inserção de dados reais e a escrita de consultas. Entendi como usar CHECK para garantir integridade dos dados diretamente no banco, sem depender da aplicação, e percebi a importância de documentar o esquema com COMMENT ON. Na parte das consultas, exercitei recursos como JOIN, LEFT OUTER JOIN, GROUP BY, EXISTS, subqueries e CTEs com WITH, o que me deu uma visão muito mais sólida de como manipular e consultar dados em cenários complexos e realistas.
+
+Sobre a modelagem do escritório de advocacia, ao modelá-lo em DER e por fim SQL, o domínio se tornou visível. Ou seja, o que era implícito ou nebuloso sobre o domínio, teve que ser esclarecido e se tornou sólido na modelagem. A modelagem interrogou o domínio e conseguimos aprender mais desse para modelá-lo.
